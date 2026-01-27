@@ -1,6 +1,14 @@
 # NCBI RefSeq GenBank Downloader (Java)
-
 A small Java CLI utility to download **annotated GenBank flat files** from NCBI by **gene symbol list**.
+
+## Availability and requirements:
+Operating system(s): Cross-platform (Windows, Linux, macOS)
+
+Programming language: Java 25 or higher
+Java Downloads: https://www.oracle.com/java/technologies/downloads/
+
+How do I set or change the Java path system variable: https://www.java.com/en/download/help/path.html
+
 
 For each input gene symbol (e.g., `BRCA2`, `TP53`) the tool:
 1. Finds the corresponding **NCBI GeneID** for a given organism (recommended: **TaxID**).
