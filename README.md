@@ -43,7 +43,7 @@ NCBI usage best practices:
 ---
 
 ## Run
-java NcbiRefSeqGenbankDownloader genes.txt
+java -jar NcbiRefSeqGenbankDownloader.jar genes.txt
 
 ## Specify organism TaxID:
 
