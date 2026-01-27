@@ -48,7 +48,7 @@ java -jar NcbiRefSeqGenbankDownloader.jar genes.txt
 ## Specify organism TaxID:
 
 ## Input format
-java NcbiRefSeqGenbankDownloader genes.txt 9606
+java -jar NcbiRefSeqGenbankDownloader.jar genes.txt 9606
 
 ## Arguments:
 args[0] — path to gene list file (required for batch mode)
