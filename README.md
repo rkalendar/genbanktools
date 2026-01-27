@@ -24,7 +24,7 @@ Output is written into `out/<GENE_SYMBOL>/` with one `.gb` file per accession.
 
 ## Requirements
 
-- Java **11+** (uses `java.net.http.HttpClient`)
+- Java **25+** (uses `java.net.http.HttpClient`)
 - Internet access
 - Recommended: NCBI API key for higher throughput (optional)
 
