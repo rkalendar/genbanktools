@@ -1,8 +1,11 @@
 # NCBI RefSeq GenBank Downloader
 
 **A Java CLI utility for batch downloading annotated GenBank flat files from NCBI**
+
+
 👤 **Author:** Ruslan Kalendar
 📧 **Contact:** ruslan.kalendar@helsinki.fi
+
 
 [![Java](https://img.shields.io/badge/Java-25+-orange.svg)](https://www.oracle.com/java/technologies/downloads/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue.svg)]()
