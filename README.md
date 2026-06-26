@@ -7,7 +7,7 @@
 📧 **Contact:** ruslan.kalendar@helsinki.fi
 
 
-[![Java](https://img.shields.io/badge/Java-17+-orange.svg)](https://www.oracle.com/java/technologies/downloads/)
+[![Java](https://img.shields.io/badge/Java-25+-orange.svg)](https://www.oracle.com/java/technologies/downloads/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue.svg)]()
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
@@ -54,7 +54,7 @@ This tool downloads **GenBank flat files** (`rettype=gbwithparts`, `retmode=text
 
 | Requirement | Details |
 |-------------|---------|
-| **Java** | Version 17 or higher (JRE to run, JDK to build) |
+| **Java** | Version 25 or higher (JRE to run, JDK to build) |
 | **OS** | Windows, Linux, or macOS |
 | **Network** | Internet access required |
 | **Optional** | NCBI API key (recommended for higher throughput) |
